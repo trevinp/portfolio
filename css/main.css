@@ -1,0 +1,21 @@
+.logo {
+    color: #02b3e4;
+}
+
+.right {
+    text-align: right;
+}
+
+.ninja {
+    font-size: smaller;
+    color: rgb(212, 88, 30);
+}
+
+.hero {
+    width: 100%;
+    position: relative;
+    background-image: url("../img/dog.jpg");
+    background-size: cover;
+    height: 250px;
+    margin-bottom: 20px;
+  }
