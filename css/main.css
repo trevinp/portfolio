@@ -17,5 +17,9 @@
     background-image: url("../img/dog.jpg");
     background-size: cover;
     height: 250px;
-    margin-bottom: 20px;
+    margin-left: 20px;
+  }
+
+  .urltarget {
+      color: green;
   }
