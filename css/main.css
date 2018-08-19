@@ -2,24 +2,59 @@
     color: #02b3e4;
 }
 
+.customrow {
+    border-bottom: inset #7d97ad 3px;
+    padding-right: 2%;
+}
+.name {
+    font-family: sans-serif;
+    font-size: 40px;
+    font-weight: lighter;
+    color: #2d3c49;
+    padding-top: 1%;
+}
 .right {
     text-align: right;
+    padding-right: 2%;
 }
 
 .ninja {
-    font-size: smaller;
-    color: rgb(212, 88, 30);
+    font-size: 18px;
+    padding-bottom: 1%;
+    color: #2d3c49;
 }
 
 .hero {
     width: 100%;
     position: relative;
-    background-image: url("../img/dog.jpg");
+    background-image: url("../img/code.jpg");
     background-size: cover;
     height: 250px;
     margin-left: 20px;
+    padding-bottom: 1%;
   }
 
   .urltarget {
       color: green;
+  }
+
+  .featured{
+      color: #7d97ad;
+      padding-top: 1.5%;
+      padding-bottom: 1%;
+      margin-left: 30px;
+      font-family: sans-serif;
+      font-size: 25px;
+      font-weight: lighter;
+  }
+
+  .work {
+      margin-left: 20px;  
+      font-family: sans-serif;
+      font-size: 16px;    
+      color: #2d3c49;
+  }
+
+  .worktitle {
+      margin-left: 30px;
   }
