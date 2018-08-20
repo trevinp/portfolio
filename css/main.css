@@ -28,7 +28,7 @@
 .hero {
     width: 100%;
     position: relative;
-    background-image: url("../img/code.jpg");
+    background-image: url('../img/code.jpg');
     background-size: cover;
     height: 250px;
     margin-left: 20px;
@@ -50,12 +50,18 @@
   }
 
   .work {
-      margin-left: 20px;  
+      margin-left: 20px;
       font-family: sans-serif;
-      font-size: 16px;    
+      font-size: 16px;
       color: #2d3c49;
   }
 
   .worktitle {
-      margin-left: 30px;
+      margin-left: 65px;
+      margin-top: 10px;
+  }
+
+  .footer {
+      margin-top: 3%;
+      text-align: center;
   }
